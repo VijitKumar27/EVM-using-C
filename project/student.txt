@@ -1,0 +1,5 @@
+student1 1 abc 
+student2 0 efg 
+student3 0 xyz 
+student4 1 fgh 
+student5 0 wer 
